@@ -1,0 +1,2 @@
+# huskyconfig
+Config pruposes
